@@ -8,6 +8,6 @@ pandas = "*"
 scikit-learn = "*"
 numpy = "*"
 matplotlib = "*"
-
+ipykernel = "*"
 [requires]
 python_version = "3.13"
